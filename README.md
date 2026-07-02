@@ -2,26 +2,32 @@
 
 # KOWSHIK BORAPUREDDY
 
-### Aspiring AI Product Engineer • AI Builder • Aspiring Product Manager • Java Full Stack Developer
+### Aspiring AI Product Engineer
 
-Building AI-powered software that solves real-world problems through intelligent engineering.
+**AI Builder • Aspiring Product Manager • Java Full Stack Developer**
+
+<p>
+
+Building AI-powered products that solve real-world problems through technology, product thinking, and continuous learning.
+
+</p>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines= Aspiring+AI+Product+Engineer;AI+Builder;Aspiring+Product+Manger;Java+Full+Stack+Developer;React+%7C+Next.js+%7C+Python+%7C+Java;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3200&pause=1000&color=2563EB&center=true&vCenter=true&width=850&lines=Aspiring+AI+Product+Engineer;AI+Builder;Aspiring+Product+Manager;Java+Full+Stack+Developer;Building+AI-Powered+Products;Always+Learning+%26+Building" />
 
 <br>
 
-<a href="https://github.com/kowshikborapureddy" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/kowshikborapureddy">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/kowshik-borapureddy/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/kowshik33/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<a href="https://wa.me/917793967404">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 <a href="https://x.com/Kowshik1678085">
@@ -35,160 +41,144 @@ Building AI-powered software that solves real-world problems through intelligent
 </div>
 
 ---
-# 👨‍💻 About Me
 
-I am a **Computer Science graduate** passionate about building intelligent software products using **Artificial Intelligence, Full Stack Development, and Product Engineering** I enjoy transforming ideas into scalable applications that solve real-world problems through clean architecture, thoughtful engineering, and user-focused design.
+# 👋 About Me
 
-### Currently focusing on
+I am a **Computer Science graduate** passionate about building **AI-powered products**, **modern web applications**, and **user-centric digital experiences**.
 
-- Artificial Intelligence
-- Full Stack Development
-- Product Engineering
-- Generative AI
-- Machine Learning
-- Cloud Computing
-- Data Structures & Algorithms
-- System Design
----
+My interests lie at the intersection of **Artificial Intelligence**, **Product Management**, and **Java Full Stack Development**. I enjoy transforming ideas into practical software solutions by combining technology, creativity, and product thinking.
 
-# 🛠 Tech Stack
-
-### 💻 Programming Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,mysql" />
-</p>
-
-### 🎨 Frontend Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
-</p>
-
-### ⚙️ Backend Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄️ Database
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase" />
-</p>
-
-### 🤖 Artificial Intelligence & Generative AI
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Prompt%20Engineering-6E40C9?style=for-the-badge"/>
-
-</p>
-
-### ☁️ Cloud & Developer Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,cloudflare" />
-</p>
+I believe great products are built by deeply understanding user problems and solving them with simple, scalable, and intelligent solutions.
 
 ---
 
-# 🚀 Professional Interests
+# 🎯 Current Focus
 
-- 🤖 Artificial Intelligence
-- 💻 Full Stack Development
-- 🚀 Product Engineering
-- 🧠 Generative AI
-- 📊 Machine Learning
-- ☁️ Cloud Computing
-- 📐 System Design
+- 🤖 Building AI-powered applications
+- 💡 Learning Product Management & Product Thinking
+- ☕ Java Full Stack Development
+- ⚛️ React & Next.js Development
+- 🧠 Generative AI & LLM Applications
 - 📚 Data Structures & Algorithms
-- 🌐 Scalable Web Applications
-- ⚡ Modern Software Engineering
+- 🏗️ Software Design & System Design
+- 🌐 Building production-ready web applications
 
 ---
 
-# 🎯 Current Goal
+# 🛠 Technology Stack
 
-> Building AI-powered software products that solve real-world problems while continuously improving my skills in Software Engineering, Product Engineering, and Artificial Intelligence.
+### Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,mysql"/>
+</p>
+
+### Frontend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
+</p>
+
+### Backend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+### Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase"/>
+</p>
+
+### 🤖 AI & Modern Technologies
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+
+</p>
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-7B1FA2?style=flat-square"/>
+<img src="https://img.shields.io/badge/OCR-4CAF50?style=flat-square"/>
+<img src="https://img.shields.io/badge/REST_API-FF5722?style=flat-square&logo=fastapi&logoColor=white"/>
+
+</p>
+
+### Developer Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,cloudflare"/>
+</p>
 
 ---
 
+# 🚀 Featured Products
 
-# 🚀 Featured Projects
+## 🤖 UVK AI
 
-<table>
-<tr>
+**AI-powered Career Development Platform**
 
-<td width="50%">
+Helping students and professionals build stronger careers using Artificial Intelligence.
 
-### 🤖 UVK AI
+### Key Features
 
-AI Career Operating System for students and job seekers.
-
-**Features**
-- ATS Resume Builder
-- Resume Analyzer
-- JD Analyzer
-- Interview Preparation
+- AI Resume Builder
+- ATS Resume Analysis
+- Resume Improvement
+- Job Description Analyzer
+- AI Interview Preparation
 - AI Career Assistant
 
 **Tech Stack**
 
-React • TypeScript • AI • Supabase
+React • TypeScript • Supabase • Generative AI
 
 🔗 Repository
 
 https://github.com/kowshikborapureddy/UVK-AI_-APP
 
-</td>
+---
 
-<td width="50%">
+## 📝 AutoGrade AI
 
-### 📝 AutoGrade AI
+**AI-powered Assignment Evaluation Platform**
 
-AI-powered handwritten assignment evaluation platform.
+An intelligent platform that automates handwritten assignment evaluation using OCR and Artificial Intelligence.
 
-**Features**
+### Key Features
 
-- OCR Processing
-- NLP
-- Machine Learning
-- Automatic Evaluation
-- Performance Analytics
+- OCR-based Text Extraction
+- Automated Evaluation
+- NLP Processing
+- Performance Insights
 
 **Tech Stack**
 
-Python • AI • OCR • ML
+Python • OCR • Machine Learning • AI
 
 🔗 Repository
 
 https://github.com/kowshikborapureddy/AutoGrade-AI
 
-</td>
+---
 
-</tr>
+## ⚡ Power Partner AI
 
-<tr>
+**Smart Marketplace for Power Solutions**
 
-<td width="50%">
+An AI-powered marketplace designed to simplify the discovery of batteries, UPS systems, and power solutions.
 
-### ⚡ Power Partner AI
+### Key Features
 
-AI marketplace for batteries, UPS systems, inverters and power solutions.
-
-**Features**
-
-- Product Discovery
-- AI Search
+- AI Product Discovery
 - Smart Recommendations
-- Marketplace
+- Marketplace Platform
+- Dealer Connectivity
 
 **Tech Stack**
 
@@ -198,20 +188,13 @@ React • TypeScript • AI
 
 https://github.com/kowshikborapureddy/power-partner-ai
 
-</td>
+---
 
-<td width="50%">
+## 📈 PrimeTrade Trading Bot
 
-### 📈 PrimeTrade Trading Bot
+**AI-powered Trading Assistant**
 
-Python-based intelligent trading assistant.
-
-**Features**
-
-- Market Analysis
-- Trading Signals
-- Automation
-- AI Predictions
+A Python-based trading assistant designed to analyze markets and provide intelligent trading insights.
 
 **Tech Stack**
 
@@ -221,23 +204,13 @@ Python • Trading APIs • AI
 
 https://github.com/kowshikborapureddy/primetrade-trading-bot
 
-</td>
+---
 
-</tr>
+## 💬 Next.js AI Chatbot
 
-<tr>
+**Conversational AI Web Application**
 
-<td colspan="2">
-
-### 💬 Next.js AI Chatbot
-
-Modern conversational AI chatbot built using Next.js.
-
-**Features**
-
-- AI Conversations
-- Responsive UI
-- Fast Performance
+A modern AI chatbot focused on providing seamless conversational experiences.
 
 **Tech Stack**
 
@@ -247,72 +220,54 @@ Next.js • React • TypeScript
 
 https://github.com/kowshikborapureddy/nextjs-ai-chatbot
 
-</td>
+---
 
-</tr>
+# 🚀 What I'm Currently Building
 
-</table>
+I enjoy transforming ideas into real-world software products by combining Artificial Intelligence, Full Stack Development, and Product Thinking.
+
+Currently, I am working on:
+
+- 🤖 AI-powered applications using Generative AI
+- 💼 AI products focused on education and career development
+- 🌐 Modern web applications using React, Next.js, and Java
+- ⚡ Scalable backend services and REST APIs
+- 📈 Projects that improve productivity using AI automation
 
 ---
 
-# 📈 Current Learning Journey
+# 🌱 Currently Learning
 
-- 🤖 Artificial Intelligence
-- 🧠 Generative AI
-- ⚛️ React Ecosystem
-- ▲ Next.js
-- 🐍 Python
-- ☕ Java
-- 🗄️ SQL & Database Design
+I believe continuous learning is the foundation of becoming a great engineer.
+
+Currently improving my skills in:
+
+- ☕ Java Full Stack Development
+- 🤖 Artificial Intelligence & LLM Applications
+- 📦 Product Management & Product Thinking
+- 🏗️ System Design Fundamentals
 - 📚 Data Structures & Algorithms
-- ☁️ Cloud Technologies
-- 🏗️ Software Architecture
-- 🎯 Product Engineering
+- ⚛️ Advanced React & Next.js
+- ☁️ Cloud Deployment
+- 🚀 Building Production-Ready AI Products
 
 ---
 
-# 🏆 Highlights
+# 🎯 Career Vision
 
-- 💡 Building AI-powered software products
-- 🚀 Passionate about Product Engineering
-- 💻 Full Stack Web Development
-- 🧠 Machine Learning Enthusiast
-- 📈 Problem Solving & DSA
-- 🌍 Building scalable applications
-- 🤝 Open Source Learner
-- 📖 Continuous Learner
+My goal is to become an **AI Product Engineer** who bridges technology and product thinking to build software that creates meaningful impact.
 
----
+I aspire to:
 
-# 📊 GitHub Contribution Graph
-
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=kowshikborapureddy&theme=tokyo-night&hide_border=true)](https://github.com/kowshikborapureddy)
+- 🚀 Build AI-powered SaaS products
+- 💡 Create products that solve real-world problems
+- 🤝 Contribute to innovative startups
+- 🌍 Work on products used by millions of people
+- 📈 Continuously grow as an engineer and product thinker
 
 ---
 
-# 👀 Profile Visitors
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=kowshikborapureddy&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
-
----
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/kowshikborapureddy/kowshikborapureddy/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</p>
-
----
-
-# 📅 GitHub Activity
+# 📊 GitHub Activity
 
 <p align="center">
 
@@ -322,31 +277,38 @@ https://github.com/kowshikborapureddy/nextjs-ai-chatbot
 
 ---
 
-# 🎯 2026 Goals
+# 🐍 Contribution Snake
 
-- 🚀 Build impactful AI-powered software products
-- 💼 Secure a Software Engineer / AI Engineer role
-- 🌍 Contribute to Open Source projects
-- 📚 Master System Design & Backend Engineering
-- 🤖 Build production-ready AI applications
-- 🏆 Solve 500+ DSA problems
-- ✨ Launch multiple real-world SaaS products
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/kowshikborapureddy/kowshikborapureddy/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
 
 ---
 
-# 💼 Looking For
+# 👀 Profile Visitors
 
-✔ Software Engineer
+<p align="center">
 
-✔ Full Stack Developer
+<img src="https://komarev.com/ghpvc/?username=kowshikborapureddy&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
-✔ AI Engineer
+</p>
 
-✔ Product Engineer
+---
 
-✔ Backend Developer
+# 💼 Open To Opportunities
 
-✔ React / Next.js Developer
+I am actively looking for opportunities in:
+
+- 💻 Java Full Stack Development
+- 🤖 AI Product Engineering
+- 📦 Product Management (Entry Level / Associate)
+- 🌐 Software Development
+- ⚛️ React / Next.js Development
+- 🚀 AI-powered Product Development
+
+I'm always excited to collaborate on innovative projects, contribute to open source, and connect with people building impactful technology.
 
 ---
 
