@@ -2,13 +2,13 @@
 
 # KOWSHIK BORAPUREDDY
 
-### AI Software Engineer • Product Engineer • Full Stack Developer
+### Aspiring AI Product Engineer • AI Builder • Aspiring Product Manager • Java Full Stack Developer
 
 Building AI-powered software that solves real-world problems through intelligent engineering.
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=AI+Software+Engineer;Full+Stack+Developer;Product+Engineer;Building+AI-Powered+Applications;React+%7C+Next.js+%7C+Python+%7C+Java;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines= Aspiring+AI+Product+Engineer;AI+Builder;Aspiring+Product+Manger;Java+Full+Stack+Developer;React+%7C+Next.js+%7C+Python+%7C+Java;Always+Learning+New+Technologies"/>
 
 <br>
 
@@ -37,9 +37,7 @@ Building AI-powered software that solves real-world problems through intelligent
 ---
 # 👨‍💻 About Me
 
-I am a **Computer Science graduate** passionate about building intelligent software products using **Artificial Intelligence, Full Stack Development, and Product Engineering**.
-
-I enjoy transforming ideas into scalable applications that solve real-world problems through clean architecture, thoughtful engineering, and user-focused design.
+I am a **Computer Science graduate** passionate about building intelligent software products using **Artificial Intelligence, Full Stack Development, and Product Engineering** I enjoy transforming ideas into scalable applications that solve real-world problems through clean architecture, thoughtful engineering, and user-focused design.
 
 ### Currently focusing on
 
